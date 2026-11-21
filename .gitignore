@@ -3,6 +3,7 @@ __pycache__/
 .DS_Store
 .env
 *.db
+.vscode/
 
 data/
-sandbox/*.csv
+sandbox/
